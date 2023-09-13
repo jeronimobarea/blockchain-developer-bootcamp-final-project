@@ -1,4 +1,4 @@
-# blockchain-developer-bootcamp-final-project
+# Consensys Academy final project
 
 ## Automatic compound and yield optimizer
 
@@ -7,6 +7,6 @@ selling part of the yield or staking in other pool the DAPP token for farming th
 
 ## Pools
 
-1. Token pool
-2. DAPP token pool for farming fees.
-3. DAPP token pool for farming the own token.
+1. Token pool: Used for minting new tokens.
+2. Fees pool: Used for optimizing the fees cost. (Stake MyTOKEN earn BNB)
+3. Other token pools: i.e. Stake CAKE and earn CAKE.
